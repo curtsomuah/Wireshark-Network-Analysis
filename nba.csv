@@ -1,0 +1,5 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"5525","335.689219","192.168.1.169","192.168.1.254","DNS","78","Standard query 0xf34d A nba.com OPT"
+"5526","335.689893","192.168.1.169","192.168.1.254","DNS","78","Standard query 0x773d AAAA nba.com OPT"
+"5534","336.072489","192.168.1.254","192.168.1.169","DNS","110","Standard query response 0xf34d A nba.com A 23.64.119.60 A 23.64.119.61 OPT"
+"5535","336.072490","192.168.1.254","192.168.1.169","DNS","137","Standard query response 0x773d AAAA nba.com SOA a1-148.akam.net OPT"
